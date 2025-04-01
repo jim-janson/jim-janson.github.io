@@ -1,0 +1,23 @@
+site_name: New England Smokery
+site_description: All things that can be smoked.
+
+theme:
+  name: material
+  logo: images/logo.png
+  custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: custom
+extra_css:
+  - stylesheets/extra.css
+plugins: []
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/smokerynewengland
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:jim@newenglandsmokery.com
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
