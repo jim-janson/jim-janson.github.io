@@ -1,0 +1,19 @@
+:root  > * {
+    --md-primary-fg-color:        #241e20;
+    --md-primary-fg-color--dark:  var(--md-primary-fg-color);
+    --md-default-bg-color:        var(--md-primary-fg-color);
+    --md-footer-bg-color--dark:   var(--md-primary-fg-color);
+    --md-typeset-a-color:         var(--md-footer-fg-color--light);
+}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    fill: transparent;
+    display: block;
+    height: 150px;
+    width: auto;
+}
+.md-header {
+    background-image: url(../images/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
