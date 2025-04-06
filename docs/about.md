@@ -20,8 +20,9 @@ unmatched.
 
 We offer a curated selection of smoked goods, including:
 
-* Smoked Cheeses
-* Smoked Nuts and Vegetables
+* Herbs and Spices
+* Baked goods
+* Nuts
 
 ## Our Commitment to Quality
 
